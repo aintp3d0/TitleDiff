@@ -1,7 +1,7 @@
 Web Page Parser
 - Simple version
   - [x] Anilibria :: https://anime.anilibriadub.ru/anime-tv/
-    - [ ] Parse /ongoing/ instead
+    - [x] Parse /ongoing/ instead
   - [ ] AnimeBest :: https://anime1.best/
 
 
