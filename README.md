@@ -8,4 +8,5 @@ Title parser, diff as an update
 
 <p align="center">
   <img src="./data/_readme/TelegramPost.png" />
+  <img src="./data/_readme/TelegramBot.png" />
 </p>
